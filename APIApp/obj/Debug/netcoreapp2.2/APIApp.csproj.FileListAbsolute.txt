@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\APIApp.deps.json
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\APIApp.runtimeconfig.json
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\APIApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\APIApp.dll
+C:\Users\User\source\repos\APIApplitacion\APIApp\bin\Debug\netcoreapp2.2\APIApp.pdb
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.AssemblyInfo.cs
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.dll
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.pdb
+C:\Users\User\source\repos\APIApplitacion\APIApp\obj\Debug\netcoreapp2.2\APIApp.genruntimeconfig.cache
